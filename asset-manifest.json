@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/flexteck_react_practical/static/css/main.332adfc6.css",
+    "main.js": "/flexteck_react_practical/static/js/main.7d4d8e00.js",
+    "static/js/488.2ed5783e.chunk.js": "/flexteck_react_practical/static/js/488.2ed5783e.chunk.js",
+    "static/media/SEGA.woff": "/flexteck_react_practical/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/flexteck_react_practical/index.html",
+    "main.332adfc6.css.map": "/flexteck_react_practical/static/css/main.332adfc6.css.map",
+    "main.7d4d8e00.js.map": "/flexteck_react_practical/static/js/main.7d4d8e00.js.map",
+    "488.2ed5783e.chunk.js.map": "/flexteck_react_practical/static/js/488.2ed5783e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.332adfc6.css",
+    "static/js/main.7d4d8e00.js"
+  ]
+}
